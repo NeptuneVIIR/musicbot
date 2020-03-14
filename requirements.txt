@@ -1,0 +1,16 @@
+os.py==0.16.12
+sys.py==0.16.12
+time.py==0.16.12
+shlex.py==0.16.12
+shutil.py==0.16.12
+random.py==0.16.12
+inspect.py==0.16.12
+logging.py==0.16.12
+asyncio.py==0.16.12
+pathlib.py==0.16.12
+traceback.py==0.16.12
+math.py==0.16.12
+re.py==0.16.12
+aiohttp.py==0.16.12
+discord.py==0.16.12
+colorlog.py==0.16.12
